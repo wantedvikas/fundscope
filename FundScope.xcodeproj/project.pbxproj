@@ -1,0 +1,395 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		F5C0000000000000000000A1 /* FundScopeCore in Frameworks */ = {isa = PBXBuildFile; productRef = F5C0000000000000000000B1 /* FundScopeCore */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		F5C0000000000000000000C1 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = F5C0000000000000000000F0 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F5C0000000000000000000D1;
+			remoteInfo = FundScope;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		F5C0000000000000000000E1 /* FundScope.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FundScope.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F5C0000000000000000000E2 /* FundScopeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FundScopeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		F5C000000000000000000101 /* FundScope */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = FundScope;
+			sourceTree = "<group>";
+		};
+		F5C000000000000000000102 /* FundScopeUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = FundScopeUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		F5C000000000000000000111 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F5C0000000000000000000A1 /* FundScopeCore in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F5C000000000000000000112 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		F5C000000000000000000121 = {
+			isa = PBXGroup;
+			children = (
+				F5C000000000000000000101 /* FundScope */,
+				F5C000000000000000000102 /* FundScopeUITests */,
+				F5C000000000000000000122 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		F5C000000000000000000122 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F5C0000000000000000000E1 /* FundScope.app */,
+				F5C0000000000000000000E2 /* FundScopeUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		F5C0000000000000000000D1 /* FundScope */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F5C000000000000000000131 /* Build configuration list for PBXNativeTarget "FundScope" */;
+			buildPhases = (
+				F5C000000000000000000141 /* Sources */,
+				F5C000000000000000000111 /* Frameworks */,
+				F5C000000000000000000151 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				F5C000000000000000000101 /* FundScope */,
+			);
+			name = FundScope;
+			packageProductDependencies = (
+				F5C0000000000000000000B1 /* FundScopeCore */,
+			);
+			productName = FundScope;
+			productReference = F5C0000000000000000000E1 /* FundScope.app */;
+			productType = "com.apple.product-type.application";
+		};
+		F5C0000000000000000000D2 /* FundScopeUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F5C000000000000000000132 /* Build configuration list for PBXNativeTarget "FundScopeUITests" */;
+			buildPhases = (
+				F5C000000000000000000142 /* Sources */,
+				F5C000000000000000000112 /* Frameworks */,
+				F5C000000000000000000152 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				F5C000000000000000000161 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				F5C000000000000000000102 /* FundScopeUITests */,
+			);
+			name = FundScopeUITests;
+			productName = FundScopeUITests;
+			productReference = F5C0000000000000000000E2 /* FundScopeUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		F5C0000000000000000000F0 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 2710;
+				LastUpgradeCheck = 2710;
+				TargetAttributes = {
+					F5C0000000000000000000D1 = {
+						CreatedOnToolsVersion = 27.1;
+					};
+					F5C0000000000000000000D2 = {
+						CreatedOnToolsVersion = 27.1;
+						TestTargetID = F5C0000000000000000000D1;
+					};
+				};
+			};
+			buildConfigurationList = F5C000000000000000000133 /* Build configuration list for PBXProject "FundScope" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = F5C000000000000000000121;
+			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				F5C000000000000000000171 /* XCLocalSwiftPackageReference "Packages/FundScopeCore" */,
+			);
+			preferredProjectObjectVersion = 77;
+			productRefGroup = F5C000000000000000000122 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				F5C0000000000000000000D1 /* FundScope */,
+				F5C0000000000000000000D2 /* FundScopeUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		F5C000000000000000000151 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F5C000000000000000000152 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		F5C000000000000000000141 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F5C000000000000000000142 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		F5C000000000000000000161 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = F5C0000000000000000000D1 /* FundScope */;
+			targetProxy = F5C0000000000000000000C1 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		F5C000000000000000000181 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 15.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 6.0;
+			};
+			name = Debug;
+		};
+		F5C000000000000000000182 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.0;
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_VERSION = 6.0;
+			};
+			name = Release;
+		};
+		F5C000000000000000000183 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = "";
+				CODE_SIGN_IDENTITY = "-";
+				CODE_SIGN_STYLE = Manual;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				ENABLE_APP_SANDBOX = YES;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_INCOMING_NETWORK_CONNECTIONS = YES;
+				ENABLE_OUTGOING_NETWORK_CONNECTIONS = YES;
+				ENABLE_PREVIEWS = YES;
+				ENABLE_USER_SELECTED_FILES = readonly;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = FundScope;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.finance";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "Personal use";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 0.1;
+				PRODUCT_BUNDLE_IDENTIFIER = com.vikasghodke.FundScope;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+			};
+			name = Debug;
+		};
+		F5C000000000000000000184 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = "";
+				CODE_SIGN_IDENTITY = "-";
+				CODE_SIGN_STYLE = Manual;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				ENABLE_APP_SANDBOX = YES;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_INCOMING_NETWORK_CONNECTIONS = YES;
+				ENABLE_OUTGOING_NETWORK_CONNECTIONS = YES;
+				ENABLE_PREVIEWS = YES;
+				ENABLE_USER_SELECTED_FILES = readonly;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = FundScope;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.finance";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "Personal use";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 0.1;
+				PRODUCT_BUNDLE_IDENTIFIER = com.vikasghodke.FundScope;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+			};
+			name = Release;
+		};
+		F5C000000000000000000185 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "-";
+				CODE_SIGN_STYLE = Manual;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 0.1;
+				PRODUCT_BUNDLE_IDENTIFIER = com.vikasghodke.FundScopeUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = FundScope;
+			};
+			name = Debug;
+		};
+		F5C000000000000000000186 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "-";
+				CODE_SIGN_STYLE = Manual;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 0.1;
+				PRODUCT_BUNDLE_IDENTIFIER = com.vikasghodke.FundScopeUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = FundScope;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F5C000000000000000000131 /* Build configuration list for PBXNativeTarget "FundScope" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F5C000000000000000000183 /* Debug */,
+				F5C000000000000000000184 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F5C000000000000000000132 /* Build configuration list for PBXNativeTarget "FundScopeUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F5C000000000000000000185 /* Debug */,
+				F5C000000000000000000186 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F5C000000000000000000133 /* Build configuration list for PBXProject "FundScope" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F5C000000000000000000181 /* Debug */,
+				F5C000000000000000000182 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCLocalSwiftPackageReference section */
+		F5C000000000000000000171 /* XCLocalSwiftPackageReference "Packages/FundScopeCore" */ = {
+			isa = XCLocalSwiftPackageReference;
+			relativePath = Packages/FundScopeCore;
+		};
+/* End XCLocalSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		F5C0000000000000000000B1 /* FundScopeCore */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = FundScopeCore;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = F5C0000000000000000000F0 /* Project object */;
+}

@@ -1,0 +1,9 @@
+build/
+DerivedData/
+.build/
+*.xcuserstate
+xcuserdata/
+.DS_Store
+*.xcconfig.local
+Fixtures/private/
+.env

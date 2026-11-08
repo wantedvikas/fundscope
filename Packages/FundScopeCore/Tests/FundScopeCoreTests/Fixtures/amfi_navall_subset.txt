@@ -1,0 +1,164 @@
+Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Plan;Option;Net Asset Value;Date
+
+Open Ended Schemes(Equity Scheme - Flexi Cap Fund)
+HDFC Mutual Fund
+
+118955;INF179K01UT0;-;HDFC Flexi Cap Fund;Direct Plan;Growth Option;2166.288;28-Oct-2026
+101762;INF179K01608;-;HDFC Flexi Cap Fund;Regular Plan;Growth Option;1965.255;28-Oct-2026
+118954;INF179K01VL5;INF179K01VM3;HDFC Flexi Cap Fund;Direct Plan;IDCW Option;87.591;28-Oct-2026
+101763;INF179K01582;INF179K01590;HDFC Flexi Cap Fund;Regular Plan;IDCW Option;71.016;28-Oct-2026
+
+PPFAS Mutual Fund
+
+122639;INF879O01027;-;Parag Parikh Flexi Cap Fund;Direct Plan;Growth;88.8018;28-Oct-2026
+153964;-;INF879O01308;Parag Parikh Flexi Cap Fund;Direct Plan;Monthly IDCW Payout;88.8021;28-Oct-2026
+122640;INF879O01019;-;Parag Parikh Flexi Cap Fund;Regular Plan;Growth;80.8370;28-Oct-2026
+153965;-;INF879O01324;Parag Parikh Flexi Cap Fund;Regular Plan;Monthly IDCW Payout;80.8371;28-Oct-2026
+
+Open Ended Schemes(Equity Scheme - Large & Mid Cap Fund)
+ICICI Prudential Mutual Fund
+
+120596;INF109K011O5;-;ICICI Prudential Large & Mid Cap Fund;Direct Plan;Growth;1066.91;28-Oct-2026
+120597;INF109K019N0;INF109K010O7;ICICI Prudential Large & Mid Cap Fund;Direct Plan;IDCW;49.84;28-Oct-2026
+100349;INF109K01431;-;ICICI Prudential Large & Mid Cap Fund;Regular Plan;Growth;944.95;28-Oct-2026
+100348;INF109K01EQ7;INF109K01449;ICICI Prudential Large & Mid Cap Fund;Regular Plan;IDCW;27.73;28-Oct-2026
+
+Open Ended Schemes(Equity Scheme - Large Cap Fund)
+ICICI Prudential Mutual Fund
+
+108467;INF109K01BN0;-;ICICI Prudential Large Cap Fund (erstwhile Bluechip Fund);;;37.59;24-Apr-2020
+120585;INF109K014L5;INF109K015L2;ICICI Prudential Large Cap Fund (erstwhile Bluechip Fund);Direct Plan;IDCW;56.84;28-Oct-2026
+108466;INF109K01BL4;-;ICICI Prudential Large Cap Fund (erstwhile Bluechip Fund);Regular Plan;Growth;101.61;28-Oct-2026
+108465;INF109K01EP9;INF109K01BM2;ICICI Prudential Large Cap Fund (erstwhile Bluechip Fund);Regular Plan;IDCW;27.39;28-Oct-2026
+120586;INF109K016L0;-;ICICI Prudential Large Cap Fund (erstwhile Bluechip Fund);Direct Plan;Growth;112.34;28-Oct-2026
+
+Nippon India Mutual Fund
+
+106235;INF204K01562;-;Nippon India Large Cap Fund;Regular Plan;Growth Option;84.2476;28-Oct-2026
+118634;INF204K01XG7;INF204K01XH5;Nippon India Large Cap Fund;Direct Plan;IDCW Option;37.7615;28-Oct-2026
+118633;INF204K01D30;-;Nippon India Large Cap Fund;Direct Plan;Bonus Option;94.9403;28-Oct-2026
+118632;INF204K01XI3;-;Nippon India Large Cap Fund;Direct Plan;Growth Option;94.9403;28-Oct-2026
+106236;INF204K01539;INF204K01547;Nippon India Large Cap Fund;Regular Plan;IDCW Option;24.6313;28-Oct-2026
+106240;INF204K01554;-;Nippon India Large Cap Fund;Regular Plan;Bonus Option;84.2476;28-Oct-2026
+106238;INF204K01513;-;Nippon India Large Cap Fund;Regular Plan;Institutional Plan Bonus Option;34.1366;03-Mar-2020
+
+Open Ended Schemes(Equity Scheme - Mid Cap Fund)
+HDFC Mutual Fund
+
+118989;INF179K01XQ0;-;HDFC Mid Cap Fund;Direct Plan;Growth Option;216.183;28-Oct-2026
+105758;INF179K01CR2;-;HDFC Mid Cap Fund;Regular Plan;Growth Option;194.802;28-Oct-2026
+118988;INF179K01XO5;INF179K01XP2;HDFC Mid Cap Fund;Direct Plan;IDCW Option;76.763;28-Oct-2026
+105757;INF179K01CS0;INF179K01CT8;HDFC Mid Cap Fund;Regular Plan;IDCW Option;48.874;28-Oct-2026
+
+Nippon India Mutual Fund
+
+118666;INF204K01E39;INF204K01E47;Nippon India Growth Mid Cap Fund;Direct Plan;IDCW Option;179.1451;28-Oct-2026
+118665;INF204K01E21;-;Nippon India Growth Mid Cap Fund;Direct Plan;Bonus Option;767.3054;28-Oct-2026
+118668;INF204K01E54;-;Nippon India Growth Mid Cap Fund;Direct Plan;Growth Option;4618.5295;28-Oct-2026
+100375;INF204K01299;INF204K01307;Nippon India Growth Mid Cap Fund;Regular Plan;IDCW Option;112.2585;28-Oct-2026
+106260;INF204K01257;INF204K01265;Nippon India Growth Mid Cap Fund;Regular Plan;INSTITUTIONAL Plan - IDCW Option;1275.3791;28-Oct-2026
+100376;INF204K01315;-;Nippon India Growth Mid Cap Fund;Regular Plan;Bonus Option;694.8923;28-Oct-2026
+100377;INF204K01323;-;Nippon India Growth Mid Cap Fund;Regular Plan;Growth Option;4174.2543;28-Oct-2026
+
+Open Ended Schemes(Equity Scheme - Small Cap Fund)
+Abakkus Mutual Fund
+
+154215;INF2JJD01177;-;Abakkus Small Cap Fund;Direct Plan;Growth;11.7040;28-Oct-2026
+154214;INF2JJD01185;-;Abakkus Small Cap Fund;Regular Plan;Growth;11.6070;28-Oct-2026
+
+Bandhan Mutual Fund
+
+147946;INF194KB1AL4;-;BANDHAN Small Cap Fund;Direct Plan;Growth;54.012;28-Oct-2026
+147943;INF194KB1AM2;-;BANDHAN Small Cap Fund;Direct Plan;IDCW;37.591;28-Oct-2026
+147944;INF194KB1AJ8;-;BANDHAN Small Cap Fund;Regular Plan;Growth;48.753;28-Oct-2026
+147945;INF194KB1AK6;-;BANDHAN Small Cap Fund;Regular Plan;IDCW;33.937;28-Oct-2026
+
+Open Ended Schemes(Equity Schemes - Flexi Cap Fund)
+WhiteOak Capital Mutual Fund
+
+150349;INF03VN01555;INF03VN01548;WhiteOak Capital Flexi Cap Fund;Direct Plan;IDCW Option;18.169;28-Oct-2026
+150346;INF03VN01530;-;WhiteOak Capital Flexi Cap Fund;Direct Plan;Growth Option;18.169;28-Oct-2026
+150348;INF03VN01522;INF03VN01514;WhiteOak Capital Flexi Cap Fund;Regular Plan;IDCW Option;17.099;28-Oct-2026
+150347;INF03VN01506;-;WhiteOak Capital Flexi Cap Fund;Regular Plan;Growth Option;17.099;28-Oct-2026
+
+Open Ended Schemes(Equity Schemes - Mid Cap Fund)
+WhiteOak Capital Mutual Fund
+
+150584;INF03VN01597;-;WhiteOak Capital Mid Cap Fund;Direct Plan;Growth Option;21.997;28-Oct-2026
+150582;INF03VN01605;INF03VN01613;WhiteOak Capital Mid Cap Fund;Direct Plan;IDCW Option;21.997;28-Oct-2026
+150583;INF03VN01563;-;WhiteOak Capital Mid Cap Fund;Regular Plan;Growth Option;20.651;28-Oct-2026
+150585;INF03VN01571;INF03VN01589;WhiteOak Capital Mid Cap Fund;Regular Plan;IDCW Option;20.651;28-Oct-2026
+
+Open Ended Schemes(Equity Schemes - Small Cap Fund)
+Invesco Mutual Fund
+
+145137;INF205K013T3;-;Invesco India Small Cap Fund;Direct Plan;Growth;51.07;28-Oct-2026
+145138;INF205K012T5;INF205K015T8;Invesco India Small Cap Fund;Direct Plan;IDCW;37.94;28-Oct-2026
+145139;INF205K011T7;-;Invesco India Small Cap Fund;Regular Plan;Growth;45.35;28-Oct-2026
+145140;INF205K010T9;INF205K014T1;Invesco India Small Cap Fund;Regular Plan;IDCW;32.44;28-Oct-2026
+
+Open Ended Schemes(Hybrid Schemes - Arbitrage Fund)
+Invesco Mutual Fund
+
+130787;INF205K01P68;-;Invesco India Arbitrage Fund;Direct Plan;Annual Bonus;37.5793;28-Oct-2026
+120401;INF205K01KR8;-;Invesco India Arbitrage Fund;Direct Plan;Growth;37.597;28-Oct-2026
+120400;INF205K01KP2;INF205K01KQ0;Invesco India Arbitrage Fund;Direct Plan;IDCW;20.4157;28-Oct-2026
+105603;INF205K01122;-;Invesco India Arbitrage Fund;Regular Plan;Growth;34.4617;28-Oct-2026
+105604;INF205K01148;INF205K01130;Invesco India Arbitrage Fund;Regular Plan;IDCW;18.3916;28-Oct-2026
+
+Open Ended Schemes(Hybrid Schemes - Multi Asset Allocation Fund)
+ICICI Prudential Mutual Fund
+
+120334;INF109K015K4;-;ICICI Prudential Multi Asset Allocation Fund;Direct Plan;Growth;850.6006;28-Oct-2026
+120335;INF109K013K9;INF109K014K7;ICICI Prudential Multi Asset Allocation Fund;Direct Plan;IDCW;55.9569;28-Oct-2026
+101144;INF109K01761;-;ICICI Prudential Multi Asset Allocation Fund;Regular Plan;Growth;766.6238;28-Oct-2026
+101143;INF109K01ED5;INF109K01779;ICICI Prudential Multi Asset Allocation Fund;Regular Plan;IDCW;32.3204;28-Oct-2026
+115269;INF109K01TN2;-;ICICI Prudential Multi Asset Allocation Fund;;;22.849;24-Apr-2020
+104898;INF109K01787;-;ICICI Prudential Multi Asset Allocation Fund;;;43.0129;18-Jun-2018
+
+Open Ended Schemes(Other Scheme - FoF Domestic)
+ICICI Prudential Mutual Fund
+
+154449;INF109K1A559;-;ICICI Prudential Multi-Asset Active FOF;Direct Plan;Growth;9.6975;28-Oct-2026
+154450;INF109K1A542;-;ICICI Prudential Multi-Asset Active FOF;Regular Plan;Growth;9.6673;28-Oct-2026
+
+Open Ended Schemes(Other Scheme - Index Funds)
+HDFC Mutual Fund
+
+151725;INF179KC1GD6;-;HDFC NIFTY Midcap 150 Index Fund;Regular Plan;Growth Option;17.654;28-Oct-2026
+151724;INF179KC1GC8;-;HDFC NIFTY Midcap 150 Index Fund;Direct Plan;Growth Option;18.0029;28-Oct-2026
+
+Nippon India Mutual Fund
+
+148726;INF204KB18Z7;-;Nippon India Nifty Midcap 150 Index Fund;Direct Plan;Growth Option;24.4298;28-Oct-2026
+148725;INF204KB19Z5;INF204KC1014;Nippon India Nifty Midcap 150 Index Fund;Direct Plan;IDCW Option;24.4298;28-Oct-2026
+148724;INF204KB16Z1;INF204KB17Z9;Nippon India Nifty Midcap 150 Index Fund;Regular Plan;IDCW Option;23.6960;28-Oct-2026
+148723;INF204KB15Z3;-;Nippon India Nifty Midcap 150 Index Fund;Regular Plan;Growth Option;23.6960;28-Oct-2026
+
+Open Ended Schemes(Other Scheme - Other  ETFs)
+HDFC Mutual Fund
+
+151374;INF179KC1HT0;-;HDFC NIFTY Midcap 150 ETF;;Growth Option;21.3431;28-Oct-2026
+
+Open Ended Schemes(Equity Scheme - Small Cap Fund)
+quant Mutual Fund
+
+120828;INF966L01689;-;Quant Small Cap Fund;Direct Plan;Growth Option;303.7075;29-Oct-2026
+
+SBI Mutual Fund
+
+125497;INF200K01T51;-;SBI SMALL CAP FUND;Direct Plan;Growth;200.1846;29-Oct-2026
+
+Open Ended Schemes(Equity Schemes - Large Cap Fund)
+Axis Mutual Fund
+
+120465;INF846K01DP8;-;Axis Large Cap Fund;Direct Plan;Growth Option;67.29;29-Oct-2026
+
+Mirae Asset Mutual Fund
+
+118825;INF769K01AX2;-;Mirae Asset Large Cap Fund;Direct Plan;Growth;121.200;29-Oct-2026
+
+Open Ended Schemes(Other Scheme - Index Funds)
+UTI Mutual Fund
+
+120716;INF789F01XA0;-;UTI Nifty 50 Index Fund;Direct Plan;Growth;161.5569;29-Oct-2026
