@@ -52,7 +52,7 @@ There's also a **demo mode** with fictional funds, so you can explore every scre
 ## Install
 
 ### Option A: download a release
-1. Download `FundScope.zip` from the [Releases](../../releases) page and unzip it.
+1. Download the latest `FundScope-<version>-macOS.zip` from the [Releases](https://github.com/wantedvikas/fundscope/releases/latest) page and unzip it.
 2. Move **FundScope.app** to your **Applications** folder.
 3. Double-click it. macOS says *"FundScope" Not Opened* because the app isn't notarised by Apple. That's expected for a free, self-signed app. Click **Done** (not "Move to Bin").
 4. Open **System Settings → Privacy & Security**, scroll to **Security**, and click **Open Anyway** next to *"FundScope" was blocked*. Confirm with your password or Touch ID, then click **Open Anyway** again.
